@@ -60,7 +60,7 @@
     "proxyquire": "^2.0.0",
     "rhoaster": "~0.2.0",
     "standard-version": "^4.3.0",
-    "supertest": "^3.0.0",
+    "supertest": "^6.0.1",
     "szero": "^1.0.0",
     "tap-spec": "~5.0.0",
     "tape": "~4.9.0",
